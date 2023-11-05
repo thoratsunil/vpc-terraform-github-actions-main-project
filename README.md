@@ -8,6 +8,7 @@
  Terraform is an open-source infrastructure as code (IaC) tool that allows you to define and provision infrastructure using a declarative configuration language. 
  
  Whereas GitHub Actions is a powerful automation and CI/CD platform provided by GitHub.
+![123](https://github.com/thoratsunil/vpc-terraform-github-actions-main-project/assets/147613969/c2fc90cb-f6e3-4879-96a0-787615073a50)
 
  
 By combining Terraform and GitHub Actions, you can:
